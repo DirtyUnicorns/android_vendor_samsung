@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/samsung/hlte-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/samsung/hlte-common/proprietary/bin/qseecomd:system/bin/qseecomd \
+    vendor/samsung/hlte-common/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/hlte-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/samsung/hlte-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/hlte-common/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
